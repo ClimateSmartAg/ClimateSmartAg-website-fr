@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Team
+title: Équipe
 permalink: /team/
 ---
 
 
-## Team Members
+## Membres de l'équipe
 ![Claude Roberts](/ClimateSmartAg-website-fr/assets/images/Claude.jpg)
 
 **Donec quam ligula**: interdum id vestibulum et, mollis at ante. Vivamus tempor quis nunc ut lacinia. Duis cursus, mi id venenatis ornare, est turpis feugiat dolor, ut eleifend erat lacus in ante. Vivamus sodales eget massa eget scelerisque. 

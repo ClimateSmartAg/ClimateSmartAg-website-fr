@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coming
+title: À venir
 permalink: /coming/
 ---
  
-What's to come from our teams.
+Les évènements à venir de notre équipe
