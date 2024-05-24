@@ -32,7 +32,7 @@ permalink: /team/
 - **Graham King**, Collaborateur (DivSeek International Network) 
 - **Seokbum Ian Ko Staveness**, Collaborateur (University of Saskatchewan) 
 - **Michelle Brazas**, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
-- **James Macklin**, Collaborateur (Agriculture et Agro-Alimentaire Canada- GRDI and GenARCC) 
+- **James Macklin**, Collaborateur (Agriculture et Agro-Alimentaire Canada, GRDI and GenARCC) 
 - **Rodrigo Ortega Polo**, Collaborateur (Agriculture et Agro-Alimentaire Canada) 
 - **Melanie Courtot**, Collaboratrice (Ontario Institute for Cancer Research) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan) 
