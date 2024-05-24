@@ -9,7 +9,7 @@ name: Agriculture intelligente face au climat
 author: DCC and AGAC Teams 
 
 # Short bio or description (displayed in the header)
-description: Améliorer l’impact climatique de l’agriculture canadienne grâce aux progrès de la génomique.
+description: Améliorer l’impact climatique de l’agriculture grâce aux progrès de la génomique.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/climate_smart.PNG
@@ -21,7 +21,7 @@ avatar: /images/climate_smart.PNG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ugdcc@uoguelph.ca
+  email: info@agrintelligenteclimat.ca
   facebook:
   flickr:
   github:
