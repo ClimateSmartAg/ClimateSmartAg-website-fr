@@ -1,19 +1,41 @@
 ---
 layout: page
-title: Équipe
+title: Membres de l'équipe
 permalink: /team/
 ---
 
+# Membres de l'équipe
 
-## Membres de l'équipe
-![Claude Roberts](/ClimateSmartAg-website-fr/assets/images/Claude.jpg)
+## Centre d'action en génomique agricole (CAGA)
 
-**Donec quam ligula**: interdum id vestibulum et, mollis at ante. Vivamus tempor quis nunc ut lacinia. Duis cursus, mi id venenatis ornare, est turpis feugiat dolor, ut eleifend erat lacus in ante. Vivamus sodales eget massa eget scelerisque. 
+-**Elizabeth Shantz**, Chercheuse principale (University of Guelph) 
+-**Lupin Battersby**, Chercheuse principale (Simon Fraser University) 
+-**Nancy Tout**, Chercheuse principale (Global Institute for Food Security) 
+-**Jessica Bowes**, Chercheuse principale (University of Guelph) 
+-**David Phipps**, Collaborateur (Research Impact Canada)  
+-**David McInnes**, Collaborateur (Centre for Agri-Food Benchmarking) 
+-**Lana Awada**, Collaboratrice (University of Saskatchewan) 
+-**Wendy Lyzenga**, Collaboratrice (University of Saskatchewan) 
+-**Stuart Smyth**, Collaborateur (University of Saskatchewan) 
+-**Luc Stafford**, Collaborateur (Université de Montréal) 
+-**Guillaume Lhermie**, Collaborateur (University of Calgary)
 
-![Michelle Edwards](/ClimateSmartAg-website-fr/assets/images/Michelle.jpg)
+## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
 
-**Donec quam ligula**: Nam vitae hendrerit dui. Sed at tincidunt justo, eget elementum risus. Pellentesque vel diam nibh. Curabitur bibendum leo ac elit eleifend euismod. In in metus placerat, congue metus congue, ultrices mi. 
+-Claude Robert, Chercheur principal Investigator (Université Laval) 
+-Michelle Edwards, Chercheuse principale (University of Guelph) 
+-William Hsiao, Chercheur principal (Simon Fraser University) 
+-Guillaume Bourque, Co-Chercheur (McGill University) 
+-Ghader Manafiazar, Co-Chercheur (Dalhousie University) 
+-Lewis Lukens, Co-Chercheur (University of Guelph) 
+-Athanasios Zovoilis, Co-Chercheur (BioNet Alberta and University of Lethbridge)  
+-Pablo Valde Donoso, Collaborateur (Université de Montréal) 
+-Graham King, Collaborateur (DivSeek International Network) 
+-Seokbum Ian Ko Staveness, Collaborateur (University of Saskatchewan) 
+-Michelle Brazas, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
+-James Macklin, Collaborateur (Agriculture and Agri-Food Canada- GRDI and GenARCC) 
+-Rodrigo Ortega Polo, Collaborateur (Agriculture and Agri-Food Canada) 
+-Melanie Courtot, Collaboratrice (Ontario Institute for Cancer Research) 
+-Matthew Links, Collaborateur (University of Saskatchewan) 
 
-![William Hsiao](/ClimateSmartAg-website-fr/assets/images/william.png)
 
-**Donec quam ligula**: Nam vitae hendrerit dui. Sed at tincidunt justo, eget elementum risus. Pellentesque vel diam nibh. Curabitur bibendum leo ac elit eleifend euismod. In in metus placerat, congue metus congue, ultrices mi. 
