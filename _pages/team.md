@@ -44,4 +44,4 @@ permalink: /team/
 - **Michelle Brazas**, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
 
-![Claude Roberts](/ClimateSmartAg-website-fr/assets/images/Claude.jpg)
+![Union jack](/ClimateSmartAg-website-fr/assets/images/english.jpg)
