@@ -36,6 +36,3 @@ permalink: /team/
 - **Rodrigo Ortega Polo**, Collaborateur (Agriculture et Agro-Alimentaire Canada) 
 - **Melanie Courtot**, Collaboratrice (Ontario Institute for Cancer Research) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
-
-
-[union jack]({{ site.baseurl }}/images/english.jpg)
