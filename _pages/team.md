@@ -35,4 +35,8 @@ permalink: /team/
 - **James Macklin**, Collaborateur (Agriculture et Agro-Alimentaire Canada, GRDI and GenARCC) 
 - **Rodrigo Ortega Polo**, Collaborateur (Agriculture et Agro-Alimentaire Canada) 
 - **Melanie Courtot**, Collaboratrice (Ontario Institute for Cancer Research) 
-- **Matthew Links**, Collaborateur (University of Saskatchewan) 
+- **Matthew Links**, Collaborateur (University of Saskatchewan)
+
+
+
+![Image]({{ site.baseurl }}/images/english.jpg)
