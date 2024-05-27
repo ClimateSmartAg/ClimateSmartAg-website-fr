@@ -38,4 +38,4 @@ permalink: /team/
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
 
 
-<img src="/images/english.jpg" alt="unionjack">
+[union jack]({{ site.baseurl }}/images/english.jpg)
