@@ -43,3 +43,6 @@ permalink: /team/
 - **Melanie Courtot**, Collaboratrice (Ontario Institute for Cancer Research) 
 - **Michelle Brazas**, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
+
+
+![Claude Roberts](/ClimateSmartAg-website-fr/assets/images/english.jpg)
