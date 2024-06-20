@@ -43,3 +43,7 @@ permalink: /team/
 - **Melanie Courtot**, Collaboratrice (Ontario Institute for Cancer Research) 
 - **Michelle Brazas**, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
+- **Jérôme Laroche**, Administrateur du projet (Université Laval)
+- **Sydney Morgan**, Administrateur du projet  (Simon Fraser University)
+- **Partima Shrivastava**, Administrateur du projet (Simon Fraser University)
+- **Luba Vasiluk**, Administrateur du projet  (University of Guelph)
