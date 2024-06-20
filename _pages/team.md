@@ -7,10 +7,10 @@ permalink: /team/
 # Membres de l'équipe
 ## Centre d'action en génomique agricole (CAGA)
 
-- **Elizabeth Shantz**, Chercheuse principale (University of Guelph) 
-- **Lupin Battersby**, Chercheuse principale (Simon Fraser University) 
-- **Nancy Tout**, Chercheuse principale (Global Institute for Food Security) 
-- **Jessica Bowes**, Chercheuse principale (University of Guelph) 
+- **Elizabeth Shantz**, Responsable du projet (University of Guelph) 
+- **Lupin Battersby**, Responsable du projet (Simon Fraser University) 
+- **Nancy Tout**, Responsable du projet (Global Institute for Food Security) 
+- **Jessica Bowes**, Responsable du projet (University of Guelph) 
 - **David Phipps**, Collaborateur (Research Impact Canada)  
 - **David McInnes**, Collaborateur (Centre for Agri-Food Benchmarking) 
 - **Lana Awada**, Collaboratrice (University of Saskatchewan) 
@@ -18,6 +18,7 @@ permalink: /team/
 - **Stuart Smyth**, Collaborateur (University of Saskatchewan) 
 - **Luc Stafford**, Collaborateur (Université de Montréal) 
 - **Guillaume Lhermie**, Collaborateur (University of Calgary)
+- **Michelle Stringer**, Administratrice du projet (University of Guelph)
 
 ## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
 
@@ -44,6 +45,6 @@ permalink: /team/
 - **Michelle Brazas**, Collaboratrice (Bioinformatics.ca and Canadian Bioinformatics Workshops) 
 - **Matthew Links**, Collaborateur (University of Saskatchewan)
 - **Jérôme Laroche**, Administrateur du projet (Université Laval)
-- **Sydney Morgan**, Administrateur du projet  (Simon Fraser University)
-- **Partima Shrivastava**, Administrateur du projet (Simon Fraser University)
-- **Luba Vasiluk**, Administrateur du projet  (University of Guelph)
+- **Sydney Morgan**, Administratrice du projet  (Simon Fraser University)
+- **Partima Shrivastava**, Administratrice du projet (Simon Fraser University)
+- **Luba Vasiluk**, Administratrice du projet  (University of Guelph)
