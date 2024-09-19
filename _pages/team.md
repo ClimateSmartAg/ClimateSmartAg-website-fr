@@ -19,6 +19,8 @@ permalink: /team/
 - **Luc Stafford**, Collaborateur (Université de Montréal) 
 - **Guillaume Lhermie**, Collaborateur (University of Calgary)
 - **Michelle Stringer**, Administratrice du projet (University of Guelph)
+- **Alexandra Burdett**, Directrice des operations (University of Guelph)
+- **Laine Young**, Gestionnaire du portfolio (University of Guelph)
 
 ## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
 
