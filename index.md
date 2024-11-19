@@ -11,9 +11,9 @@ Deux nouveaux centres de collaboration soutiennent désormais ce travail partout
 - Le **Centre d'action en génomique agricole (CAGA)** rassemblera les participants de l'ensemble de l'écosystème génomique, soutiendra les équipes dans leur mobilisation et la commercialisation des connaissances du projet, formera les chercheurs et les étudiants et synthétisera les apprentissages de tous les projets pour éclairer les politiques et les pratiques.
 
 - Le **Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)** soutiendra le partage, la gestion et la gouvernance des données de recherche entre les projets en créant un écosystème de données comprenant des cadres communs pour l'échange et le partage de données, des normes de données développées par la communauté et des logiciels open source. et des boîtes à outils de traitement de données réutilisables, une gouvernance des données fondée sur le consensus et une formation pour développer les compétences communautaires en matière de données.
-  - [Knowledge/Documentation Page](https://climatesmartagcollab.github.io/Documentation-en/)
-  - [Schema Library/Data Catalogue](https://climatesmartagcollab.github.io/HUB-Harmonization/)
-  - [Climate Smart Ag on GitHub](https://github.com/ClimateSmartAgCollab)
-  - [Harmonization Hub](https://github.com/ClimateSmartAgCollab/HUB-Harmonization)
+  - [Connaissance/Page de Documentation](https://climatesmartagcollab.github.io/Documentation-fr/)
+  - [Bibliothèque de schémas/Catalogue de Données](https://climatesmartagcollab.github.io/HUB-Harmonization/)
+  - [Le GitHub de Climate Smart Ag](https://github.com/ClimateSmartAgCollab)
+  - [Centre d'Harmonisation](https://github.com/ClimateSmartAgCollab/HUB-Harmonization)
 
 Apprenez-en plus sur les [équipes du projet](https://climatesmartag.github.io/ClimateSmartAg-website-fr/team/) ou contactez-nous à <info@agrintelligenteclimat.ca> pour plus d'informations. Lisez les nouvelles sur la page d'annonce de [Génome Canada](https://genomecanada.ca/fr/nouvelles-et-evenements/nouvelles/).
