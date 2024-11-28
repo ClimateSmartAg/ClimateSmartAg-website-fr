@@ -15,5 +15,7 @@ Deux nouveaux centres de collaboration soutiennent désormais ce travail partout
   - [Bibliothèque de schémas/Catalogue de Données](https://climatesmartagcollab.github.io/HUB-Harmonization/)
   - [Le GitHub de Climate Smart Ag](https://github.com/ClimateSmartAgCollab)
   - [Centre d'Harmonisation](https://github.com/ClimateSmartAgCollab/HUB-Harmonization)
+  - [Semantic Engine](https://www.semanticengine.org/)
+  - [Data Harmonizer](https://github.com/cidgoh/DataHarmonizer)
 
 Apprenez-en plus sur les [équipes du projet](https://climatesmartag.github.io/ClimateSmartAg-website-fr/team/) ou contactez-nous à <info@agrintelligenteclimat.ca> pour plus d'informations. Lisez les nouvelles sur la page d'annonce de [Génome Canada](https://genomecanada.ca/fr/nouvelles-et-evenements/nouvelles/).
