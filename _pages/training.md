@@ -5,7 +5,7 @@ permalink: /training/
 ---
 
 # Formation
-Vous trouverez ici différentes formations et autres événements proposés par le Hubs ou par des organisations externes. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
+Vous trouverez ici différentes formations et autres événements proposés par les Hubs ou par des organisations externes. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
 
 ## Depuis les Hubs
 À venir...
