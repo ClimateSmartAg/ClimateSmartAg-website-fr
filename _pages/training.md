@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Formation et événements
+title: Formation
 permalink: /training/
 ---
 
-# Formation et événements
+# Formation
 Sur cette page, vous trouverez différents webinaires de formation et autres événements proposés par le CS-DCC et Ag-Act (Data Hub et Knowledge Mobilization Hubs). Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres ICT.
 
 ## CS-DCC et Ag-Act
