@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formation
+title: Formations
 permalink: /training/
 ---
 
