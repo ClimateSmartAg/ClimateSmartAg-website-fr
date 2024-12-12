@@ -5,7 +5,7 @@ permalink: /training/
 ---
 
 # Formation
-Sur cette page, vous trouverez différents webinaires de formation et autres événements proposés par le Hubs ou par des organisations externes. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres ICT.
+Vous trouverez ici différentes formations et autres événements proposés par le Hubs ou par des organisations externes. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
 
 ## Depuis les hubs
 À venir...
