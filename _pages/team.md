@@ -52,7 +52,7 @@ permalink: /team/
 - **Jérôme Laroche**, Administrateur du projet (Université Laval)
 - **Sydney Morgan**, Administratrice du projet  (Simon Fraser University)
 - **Partima Shrivastava**, Administratrice du projet (Simon Fraser University)
-- **Luba Vasiluk**, Administratrice du projet  (University of Guelph)
+- **Luba Vasiluk**, Gestionnaire du portfolio et Administratrice du projet  (University of Guelph)
 - **Setayesh Sanavi**, Gouvernance des données (University of Guelph)
 - **Jaber Husiny**, Conservateur de données et Coordonnateur de la formation (University of Guelph)
 
