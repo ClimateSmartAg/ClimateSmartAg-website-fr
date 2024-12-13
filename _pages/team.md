@@ -10,7 +10,8 @@ permalink: /team/
 - **Elizabeth Shantz**, Responsable du projet (University of Guelph) 
 - **Lupin Battersby**, Responsable du projet (Simon Fraser University) 
 - **Nancy Tout**, Responsable du projet (Global Institute for Food Security) 
-- **Jessica Bowes**, Responsable du projet (University of Guelph) 
+- **Jessica Bowes**, Responsable du projet (University of Guelph)
+- **Chelsea Platzke**, Responsable du projet (Global Institute for Food Security) 
 - **David Phipps**, Collaborateur (Research Impact Canada)  
 - **David McInnes**, Collaborateur (Centre for Agri-Food Benchmarking) 
 - **Lana Awada**, Collaboratrice (University of Saskatchewan) 
@@ -52,3 +53,6 @@ permalink: /team/
 - **Sydney Morgan**, Administratrice du projet  (Simon Fraser University)
 - **Partima Shrivastava**, Administratrice du projet (Simon Fraser University)
 - **Luba Vasiluk**, Administratrice du projet  (University of Guelph)
+- **Setayesh Sanavi**, Gouvernance des données (University of Guelph)
+- **Jaber Husiny**, Conservateur de données et Coordonnateur de la formation (University of Guelph)
+
