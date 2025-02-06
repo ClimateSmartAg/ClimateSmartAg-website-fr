@@ -23,7 +23,7 @@ permalink: /team/
 - **Alexandra Burdett**, Directrice des opérations (University of Guelph)
 - **Laine Young**, Gestionnaire du portfolio (University of Guelph)
 - **Tiffany Nam**, Spécialiste de la mobilisation des connaissances (Simon Fraser University)
-- **Nicolas Macia**, Coordonnateur à l'intégration (Université de Montréal)
+- **Cécile Delignou**, Coordonnateur à l'intégration (Université de Montréal)
 
 ## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
 
