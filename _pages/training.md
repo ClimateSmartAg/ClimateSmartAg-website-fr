@@ -15,7 +15,7 @@ Vous trouverez ici différentes formations et autres événements, proposés par
 
 - [Calcul Québec](https://www.calculquebec.ca/) offre plusieurs formations en liens avec l'informatique: programmation, analyse, utilisation de super-ordinateurs. Consultez leur [page web](https://www.calculquebec.ca/services-aux-chercheurs/formation/) pour connaître l'offre de formation.
 
-- [Physalia](https://www.physalia-courses.org/courses-workshops/) organise plusieurs cours et ateliers sur le codage en R, Python et d'autres langages de codage, la gestion des données et les analyses pour différents types de données. Cliquez sur le bouton [Courses & Workshops](https://www.physalia-courses.org/courses-workshops/) pour obtenir des informations sur l'inscription et les dates auxquelles les cours et les ateliers sont proposés.
+- [Physalia](https://www.physalia-courses.org/courses-workshops/) organise plusieurs cours et ateliers sur le codage en R, Python et d'autres langages de codage, la gestion des données et les analyses pour différents types de données. Cliquez sur le menu [Courses & Workshops](https://www.physalia-courses.org/courses-workshops/) pour obtenir des informations sur l'inscription et les dates auxquelles les cours et les ateliers sont proposés.
 
 - [La bibliothèque de l'Université de Guelph](https://www.lib.uoguelph.ca/find/workshops/data-skills-workshop-series/) organise plusieurs ateliers sur l'analyse des données et propose un « programme d'immersion dans les compétences en matière de données ». Consultez la page web pour plus de détails.
 
@@ -25,4 +25,4 @@ Vous trouverez ici différentes formations et autres événements, proposés par
 
 - [L'Université de Colombie Britannique](https://rdm.ubc.ca/training-workshops) organise plusieurs ateliers sur la gestion des données, la science des données, l'IA, etc. Consultez la page web pour plus de détails.
 
-- [L'Alliance Recherche Numérique du Canada - ARNC](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-training-modules) offre des ressources de formation sur la gestion des données de recherche et la navigation dans les dépôts de données. Consultez la page web pour plus de détails.
+- [L'Alliance Recherche Numérique du Canada - ARNC](https://alliancecan.ca/fr/services/gestion-des-donnees-de-recherche/apprentissage-et-ressources/ressources-de-formation) offre des ressources de formation sur la gestion des données de recherche et la navigation dans les dépôts de données. Consultez la page web pour plus de détails.
