@@ -26,3 +26,5 @@ Vous trouverez ici différentes formations et autres événements, proposés par
 - [L'Université de Colombie Britannique](https://rdm.ubc.ca/training-workshops) organise plusieurs ateliers sur la gestion des données, la science des données, l'IA, etc. Consultez la page web pour plus de détails.
 
 - [L'Alliance Recherche Numérique du Canada - ARNC](https://alliancecan.ca/fr/services/gestion-des-donnees-de-recherche/apprentissage-et-ressources/ressources-de-formation) offre des ressources de formation sur la gestion des données de recherche et la navigation dans les dépôts de données. Consultez la page web pour plus de détails.
+  
+- [L'Alliance Recherche Numérique du Canada -ARNC](https://alliance-rdm-gdr.github.io/rdm-jumpstart-registration/) organise un cours gratuit en ligne sur la gestion des données de recherche du 12 au 16 mai. Consultez la page web pour connaître les modalités d'inscription.
