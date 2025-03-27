@@ -6,7 +6,7 @@ permalink: /coming/
 
 # Ce qui s'en vient
  
-## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
+## Centre de Collaboration sur les Données Climato-Intelligente (CCD-CI)
 - Pôle d'harmonisation des données et forum de discussion
 - Pôle de gouvernance des données et forum de discussion
 - Formation et ressources en partage et analyse de données

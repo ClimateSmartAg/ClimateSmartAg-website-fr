@@ -25,7 +25,7 @@ permalink: /team/
 - **Tiffany Nam**, Spécialiste de la mobilisation des connaissances (Simon Fraser University)
 - **Cécile Delignou**, Coordonnateur à l'intégration (Université de Montréal)
 
-## Centre de Collaboration sur les Données en Agriculture Intelligente face au Climat (CCD-AIC)
+## Centre de Collaboration sur les Données Climato-Intelligente (CCD-CI)
 
 - **William Hsiao**, Chercheur principal (Simon Fraser University) 
 - **Michelle Edwards**, Chercheuse principale (University of Guelph) 
