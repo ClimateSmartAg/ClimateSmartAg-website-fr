@@ -12,6 +12,8 @@ Vous trouverez ici différentes formations et autres événements, proposés par
 
 ## Organisations externes
 - [Bioinformatics.ca](https://bioinformatics.ca/workshops/current-workshops/) organise plusieurs ateliers de formation sur l'analyse de données. La liste des cours et l'inscription à la [partie 1 des ateliers de 2025 ont été publiées](https://bioinformatics.ca/workshops/current-workshops/). Consultez la page Web [Current Workshops](https://bioinformatics.ca/workshops/current-workshops/) pour obtenir des informations sur le processus de candidature et les bourses de voyage. Les enregistrements et les présentations des ateliers précédents sont disponibles gratuitement et peuvent être consultés à partir des [Workshops Archive](https://bioinformatics.ca/workshops/previous-workshops/).
+  - 26 et 27 mai 2025 : [Analyse du microbiome pour débutants : Vancouver, C.-B.](https://bioinformatics.ca/workshops-all/2025-beginner-microbiome-analysis-vancouver-bc/)
+  - 29 et 30 mai 2025 : [Analyse du microbiome pour avancés : Vancouver, C.-B.](https://bioinformatics.ca/workshops-all/2025-advanced-microbiome-analysis-vancouver-bc/)
 
 - [Calcul Québec](https://www.calculquebec.ca/) offre plusieurs formations en liens avec l'informatique: programmation, analyse, utilisation de super-ordinateurs. Consultez leur [page web](https://www.calculquebec.ca/services-aux-chercheurs/formation/) pour connaître l'offre de formation.
 
