@@ -8,7 +8,23 @@ permalink: /training/
 Vous trouverez ici différentes formations et autres événements, proposés par les Hubs ou des organisations externes, qui sont pertinents pour les projets de l'initiative PBDAC. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
 
 ## Depuis les Hubs
-À venir...
+AG-ACt est heureux d'organiser une séance de formation sur l'engagement autochtone le 25 juin, de 13 h à 14 h 30 HNE. Cette séance se déroulera virtuellement sur Zoom et sera enregistrée pour votre commodité.
+Veuillez vous inscrire [ici](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
+
+Cette formation est conçue spécifiquement pour les chercheurs agricoles du Canada, en particulier ceux soutenus par le Centre d'action en génomique agricole (AG-ACt).
+
+Elle offre des conseils pratiques et axés sur la recherche sur comment, quand et pourquoi mobiliser les peuples autochtones tout au long de votre processus de recherche. Contrairement aux formations générales sur l'EDI ou la santé, ce contenu est adapté aux réalités de la recherche agroalimentaire. Cette formation fournit des outils essentiels pour une recherche inclusive et percutante.
+
+Vous acquerrez des connaissances sur :
+
+L'établissement de relations respectueuses et réciproques ;
+
+La compréhension des cadres éthiques tels que les principes PCAP et la DNUDPA ;
+Aligner les approches de recherche sur les valeurs et priorités autochtones ; et
+Améliorer vos propositions de subventions et vos plans de mobilisation des connaissances.
+
+À qui s'adresse cette séance : Aux membres des équipes, pôles et partenaires des TIC qui souhaitent en savoir plus sur l'engagement respectueux et réciproque des Autochtones dans le cadre de leurs recherches. Nous accueillons les chercheurs principaux, le personnel, les chefs de projet, le personnel hautement qualifié (étudiants, postdoctorants) et tout partenaire de projet.
+Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
 
