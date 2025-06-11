@@ -53,7 +53,8 @@ Améliorer vos propositions de subventions et vos plans de mobilisation des conn
 Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
-
+- [L'Alliance pour la recherche numérique du Canada (DRAC)](https://alliancecan.ca/en/latest/events/laying-foundation-pilot-national-research-data-management-jumpstart) et le Groupe national d'experts en formation sur la GDR sont heureux de vous inviter à la présentation «Jeter les bases: Le projet pilote national de démarrage en gestion des données de recherche». Le webinaire aura lieu le mercredi 25 juin 2025, de 13 h à 14 h (HE). Veuillez vous inscrire à l'avance en suivant ce lien: [Inscrivez-vous ici](https://engagedri-ca.zoom.us/webinar/register/WN_lavvRiBnQm2DquDbV8hU8w).
+  
 - [Statisque Canada](https://www.statcan.gc.ca/fr/afc/litteratie-donnees) propose plusieurs formations sur les données, payantes et gratuites. Pour les formations gratuites, rendez-vous ci-dessous [Complétez nos cours gratuits en ligne à votre rythme].
 
 - [Compute Ontario](https://training.computeontario.ca/coss2025.php) se déroule du 2 au 20 juin 2025. Elle propose un programme complet de plus de 40 cours. Animées par des experts du domaine, ces séances couvrent un large éventail de sujets, notamment le calcul de recherche avancé (CRA), le calcul haute performance (CHP), la gestion des données de recherche (GDR) et les logiciels de recherche (LSR). Avec des présentations et des ateliers offerts aux niveaux débutant et intermédiaire, il y en a pour tous les goûts.
