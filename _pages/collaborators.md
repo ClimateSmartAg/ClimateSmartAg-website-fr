@@ -59,9 +59,9 @@ permalink: /collaborators/
 ## Co-chercheurs
 
 **Guillaume Bourque, PhD**
-Professor, Department of Human Genetics
-McGill University
-Related expertise: Data governance, Data management
+Professor, Department of Human Genetics<br>
+McGill University<br>
+Related expertise: Data governance, Data management<br>
 Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.
 
 
