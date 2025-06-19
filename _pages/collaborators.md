@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborateurs
-permalink: /collabs/
+permalink: /collaborators/
 ---
 
 # Membres de l'équipe
