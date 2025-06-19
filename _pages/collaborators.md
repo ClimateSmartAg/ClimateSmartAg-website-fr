@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biographie
-permalink: /bios/
+title: Collaborateurs
+permalink: /collabs/
 ---
 
 # Membres de l'équipe
