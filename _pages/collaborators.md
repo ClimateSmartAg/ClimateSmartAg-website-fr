@@ -58,13 +58,13 @@ permalink: /collaborators/
 
 ## Co-chercheurs
 
-<u>**Guillaume Bourque, PhD**<u><br>
+**<u>Guillaume Bourque, PhD<u>**<br>
 Professor, Department of Human Genetics<br>
 McGill University<br>
 Related expertise: Data governance, Data management<br>
 Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.
-
-
+<br>
+<br>
 Philippe Després, PhD
 Professor, Department of Physics, Physical Engineering and Optics Université Laval Related expertise: Data governance, Data management, Data analytics Additional context: Deep understanding of FAIR data principles and open science. Member of Digital Research Alliance of Canada.
 
