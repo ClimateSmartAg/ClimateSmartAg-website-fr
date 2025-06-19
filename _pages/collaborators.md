@@ -58,7 +58,7 @@ permalink: /collaborators/
 
 ## Co-chercheurs
 
-**<u>Guillaume Bourque, PhD<u>**<br>
+**<u>Guillaume Bourque, PhD<u>**
 Professor, Department of Human Genetics<br>
 McGill University<br>
 Related expertise: Data governance, Data management<br>
