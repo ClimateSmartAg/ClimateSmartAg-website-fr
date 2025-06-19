@@ -4,13 +4,13 @@ title: Collaborateurs
 permalink: /collaborators/
 ---
 
-## Co-chercheurs
+## Co-investigators
 
 **Guillaume Bourque, PhD**<br>
 Professor, Department of Human Genetics<br>
 McGill University<br>
-Related expertise: Data governance, Data management<br>
-Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.
+*Related expertise: Data governance, Data management<br>
+Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.*
 <br>
 <br>
 **Philippe Després, PhD**<br>
@@ -39,7 +39,7 @@ Additional context: Focus on maize and other plant species, using bioinformatics
 Assistant Professor, Department of Animal Science and Aquaculture Dalhousie University Related expertise: Agriculture and agri-food science, Climate science Additional context: Expert in feed efficiency, GHG emissions, and resilience traits in livestock production systems. Athanasios Zovoilis, PhD Associate Professor, Department of Biochemistry and Medical Genetics University of Manitoba Related expertise: Data analytics Additional context: Expert in RNA biology, leads the Bioinformatics network in Alberta (BioNet).
 <br>
 <br>
-## Collaborateurs
+## Collaborators
 
 **Michelle Brazas, PhD**<br>
 Director, Ontario Institute for Cancer Research Scientific Director, Bioinformatics.ca Canadian Bioinformatics Workshops Related expertise: Education & training Additional context: Establishing the Canadian Bioinformatics, Computational Biology, and Health Data Sciences Training & Community Platform
