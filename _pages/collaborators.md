@@ -53,7 +53,7 @@ _Contexte additionnel:_ Expert en biologie de l'ARN, dirige le réseau de bioinf
 Directeur, Institut de recherche sur le cancer de l'Ontario<br>
 Directeur scientifique Bioinformatics.ca Ateliers canadiens de bio-informatique<br>
 _Expertise connexe:_ Éducation et formation<br>
-_Contexte additionnel:_ Mise en place de la plateforme canadienne de formation et de communauté en bioinformatique, biologie computationnelle et sciences des données de santé.<br>
+_Contexte additionnel:_ Établir le Carrefour canadien de bioinformatique en tant que plateforme nationale de formation et de communauté en bioinformatique, biologie computationnelle et sciences des données.<br>
 <br>
 **Melanie Courtot, PhD**<br>
 Professeur adjoint, Institut de recherche sur le cancer de l'Ontario<br>
