@@ -1,6 +1,14 @@
 ---
 ---
-## À propos
+
+# Participer aux discussions en temps réel via le chat
+
+## Table des matières
+
+1. TOC
+{:toc}
+
+### À propos
 
 L’agriculture et les systèmes alimentaires du Canada nourrissent non seulement le monde, mais peuvent également nous aider à atténuer les impacts des changements climatiques et à nous y adapter. Un système alimentaire plus résilient et durable réduira les émissions de gaz à effet de serre, séquestrera le carbone, améliorera la biodiversité, garantira l’équité dans l’accès à l’alimentation et soutiendra la circularité – favorisant ainsi le progrès pour les personnes, notre environnement et notre économie.
 
@@ -22,12 +30,6 @@ Apprenez-en plus sur les [équipes du projet](https://climatesmartag.github.io/C
 
 
 
-# Participer aux discussions en temps réel via le chat
-
-## Table des matières
-
-1. TOC
-{:toc}
 
 ### Discussion par canal
 
