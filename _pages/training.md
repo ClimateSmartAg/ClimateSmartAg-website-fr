@@ -8,6 +8,20 @@ permalink: /training/
 Vous trouverez ici différentes formations et autres événements, proposés par les Hubs ou des organisations externes, qui sont pertinents pour les projets de l'initiative PBDAC. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
 
 ## Depuis les Hubs
+CS-DCC: Nous poursuivons notre programme de formation avec cette deuxième session consacrée aux schémas de données. Les schémas de données permettent de documenter et de consigner les données. Il existe déjà une abondance de formations et de ressources disponibles à ce sujet, donc cette communication servira principalement de rappel sur où trouver ces ressources.
+
+- Carly Huitema de l’Université de Guelph (CS-DCC) propose une formation. Vous trouverez ci-dessous un lien vers le Semantic Engine, le GitHub de Climate Smart Agriculture, ainsi que les coordonnées de Carly.
+
+    o	Semantic Engine
+    o	ClimateSmartAg Apprentissage sur les Schémas
+    o	Courriel de Carly : huitemac@uoguelph.ca
+
+Des questions ?
+
+- Veuillez contacter Jaber Husiny (jhusiny@uoguelph.ca), qui est votre principal point de contact.
+
+---
+
 CS-DCC: Nous lançons les programmes de formation avec notre première session axée sur la conservation et le stockage des données. Nous avons tous collecté des données, alors maintenant que fait-on ensuite ? La prochaine étape logique est de comprendre comment stocker les données en toute sécurité afin qu'elles soient préservées, facilement accessibles à l'avenir, et qu'elles respectent les principes FAIR (Faciles à trouver, Accessibles, Interopérables et Réutilisables). Voici des ressources utiles pour vos besoins en stockage de données:
 
 - [Modules de formation ADC (Agri-Food Data Canada) & vidéos YouTube](https://www.youtube.com/playlist?list=PLWnVJ7c2CJ59Em-cZPH7CfX7pXdErVD5F)
@@ -45,6 +59,8 @@ Ressources supplémentaires – Université de Guelph (U of G) et Alliance des r
 Des questions ?
 
 - Veuillez contacter Jaber Husiny (jhusiny@uoguelph.ca) qui est le principal point de contact.
+
+---
 
 AG-ACt est heureux d'organiser une séance de formation sur l'engagement autochtone le 25 juin, de 13 h à 14 h 30 HNE. Cette séance se déroulera virtuellement sur Zoom et sera enregistrée pour votre commodité.
 Veuillez vous inscrire [ici](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
