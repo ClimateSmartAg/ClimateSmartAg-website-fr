@@ -23,10 +23,8 @@ Apprenez-en plus sur les [équipes du projet](https://climatesmartag.github.io/C
 
 
 # Participer aux discussions en temps réel via le chat
-{: .no_toc }
 
 ## Table des matières
-{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
