@@ -1,14 +1,14 @@
 ---
 ---
 
-# Participer aux discussions en temps réel via le chat
-
 ## Table des matières
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ### À propos
+{: .no_toc }
 
 L’agriculture et les systèmes alimentaires du Canada nourrissent non seulement le monde, mais peuvent également nous aider à atténuer les impacts des changements climatiques et à nous y adapter. Un système alimentaire plus résilient et durable réduira les émissions de gaz à effet de serre, séquestrera le carbone, améliorera la biodiversité, garantira l’équité dans l’accès à l’alimentation et soutiendra la circularité – favorisant ainsi le progrès pour les personnes, notre environnement et notre économie.
 
