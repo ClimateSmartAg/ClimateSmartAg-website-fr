@@ -1,14 +1,6 @@
 ---
 ---
-
-## Table des matières
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-### À propos
-{: .no_toc }
+## À propos
 
 L’agriculture et les systèmes alimentaires du Canada nourrissent non seulement le monde, mais peuvent également nous aider à atténuer les impacts des changements climatiques et à nous y adapter. Un système alimentaire plus résilient et durable réduira les émissions de gaz à effet de serre, séquestrera le carbone, améliorera la biodiversité, garantira l’équité dans l’accès à l’alimentation et soutiendra la circularité – favorisant ainsi le progrès pour les personnes, notre environnement et notre économie.
 
@@ -27,13 +19,3 @@ Deux nouveaux centres de collaboration (Hubs) soutiennent désormais ce travail 
   - [Data Harmonizer](https://github.com/cidgoh/DataHarmonizer)
 
 Apprenez-en plus sur les [équipes du projet](https://climatesmartag.github.io/ClimateSmartAg-website-fr/team/) ou contactez-nous à <info@agrintelligenteclimat.ca> pour plus d'informations. Lisez les nouvelles sur la page d'annonce de [Génome Canada](https://genomecanada.ca/fr/nouvelles-et-evenements/nouvelles/).
-
-
-
-
-### Discussion par canal
-
-### Chat de groupe
-
-### Test
-
