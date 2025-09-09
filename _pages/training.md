@@ -81,6 +81,10 @@ Améliorer vos propositions de subventions et vos plans de mobilisation des conn
 Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
+- [L'Université d'Athabasca](https://powered.athabascau.ca/product?catalog=Research-Data-Management) organise un cours d'introduction à la gestion des données de recherche. Le cours est GRATUIT, mais en raison des limitations de la plateforme/du site Web, il vous invitera à payer/acheter le cours, alors entrez le code promo ‘researchfree’ pour contourner le paiement.
+
+- [L’Gouvernement du Canada]( https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management) a mis à jour son site Web sur la gestion des données de recherche. Consultez-le pour prendre connaissance des dernières nouvelles sur la politique de gestion des données de recherche, les possibilités de financement et la FAQ.
+
 - [L'Alliance pour la recherche numérique du Canada (DRAC)](https://alliancecan.ca/en/latest/events/laying-foundation-pilot-national-research-data-management-jumpstart) et le Groupe national d'experts en formation sur la GDR sont heureux de vous inviter à la présentation «Jeter les bases: Le projet pilote national de démarrage en gestion des données de recherche». Le webinaire aura lieu le mercredi 25 juin 2025, de 13 h à 14 h (HE). Veuillez vous inscrire à l'avance en suivant ce lien: [Inscrivez-vous ici](https://engagedri-ca.zoom.us/webinar/register/WN_lavvRiBnQm2DquDbV8hU8w).
   
 - [Statisque Canada](https://www.statcan.gc.ca/fr/afc/litteratie-donnees) propose plusieurs formations sur les données, payantes et gratuites. Pour les formations gratuites, rendez-vous ci-dessous [Complétez nos cours gratuits en ligne à votre rythme].
