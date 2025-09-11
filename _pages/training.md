@@ -8,6 +8,88 @@ permalink: /training/
 Vous trouverez ici différentes formations et autres événements, proposés par les Hubs ou des organisations externes, qui sont pertinents pour les projets de l'initiative PBDAC. Tous les événements répertoriés ici sont des recommandations à prendre en compte par nos membres EID.
 
 ## Depuis les Hubs
+CS-DCC: Nous poursuivons notre programme de formation avec cette troisième session axée sur Github.
+
+Date et heure : 23 septembre 2025, de 13h à 14h (HAE)
+
+Lieu : En ligne via Teams, lien d'inscription : https://events.teams.microsoft.com/event/1cb28c4c-1c83-4191-a1db-72756107fe12@be62a12b-2cad-49a1-a5fa-85f4f3156a7d
+
+GitHub
+
+- Démonstration en direct / atelier sur les ressources disponibles et les fonctionnalités de la plateforme. La session sera enregistrée. Les liens seront publiés sur notre site web, notre forum de discussion et d'autres plateformes.
+
+- Structure de la session
+
+    o	Introduction : qui vous êtes, ce que vous faites, et pourquoi GitHub est important
+
+    o	Objectif de GitHub et son application pour votre groupe
+
+    o	Intervenants invités : Carly et Jérôme
+
+    o	Fonctionnalités
+
+    o	Conclusion
+
+    o	Un sondage sera envoyé peu après le webinaire
+
+Objectifs d’apprentissage
+
+    1.	Les participants acquerront une compréhension de base de GitHub
+
+    2.	Les participants apprendront à naviguer sur GitHub pour obtenir du soutien
+
+    3.	Les participants se sentiront suffisamment à l’aise pour utiliser les outils GitHub dans des projets de groupe
+
+Introduction
+
+- Qui sommes-nous :
+
+    o	Jaber Husiny : CS-DCC
+
+    o	Groupe de travail sur la formation aux données : groupe mixte
+
+- Ce que nous faisons :
+
+    o	Fournir des formations et des ressources en données aux 9 EID
+
+    o	Être un soutien pour les EID en cas de questions
+
+GitHub
+
+- Qu’est-ce que c’est ?
+
+    o	GitHub est une plateforme web permettant de stocker et gérer des informations/données, suivre les modifications, collaborer avec d'autres, et archiver des informations/données
+
+    o	Gratuit (en grande partie)
+
+- Comment cela s’applique-t-il ?
+
+    o	Fournit une plateforme web gratuite pour la communication, le partage de fichiers et le stockage pour les ICT
+
+    o	Facile à utiliser pour communiquer au sein ou en dehors de votre organisation
+
+Intervenants invités
+
+- Dr. Carly Huitema
+
+    o	Responsable de la stratégie des données agroalimentaires & membre du groupe CS-DCC à Guelph
+
+- Dr. Jérôme Laroche
+
+    o	Administrateur de projet (Université Laval) & membre du groupe CS-DCC à Québec et du groupe de travail sur la formation aux données
+
+Pertinence de GitHub pour le portfolio
+
+- Offre une formation ouverte sur les données et le partage de données pour les EID
+
+- Permet le partage de données avec le public
+
+Questions?
+
+- Contactez : Jaber Husiny (jhusiny@uoguelph.ca), Carly Huitema (huitemac@uoguelph.ca)
+
+---
+
 CS-DCC: Nous poursuivons notre programme de formation avec cette deuxième session consacrée aux schémas de données. Les schémas de données permettent de documenter et de consigner les données. Il existe déjà une abondance de formations et de ressources disponibles à ce sujet, donc cette communication servira principalement de rappel sur où trouver ces ressources.
 
 - Carly Huitema de l’Université de Guelph (CS-DCC) propose une formation. Vous trouverez ci-dessous un lien vers le Semantic Engine, le GitHub de Climate Smart Agriculture, ainsi que les coordonnées de Carly.
