@@ -163,6 +163,20 @@ Améliorer vos propositions de subventions et vos plans de mobilisation des conn
 Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
+- L'équipe des services de curation au DFDR de l'Alliance de recherche numérique du Canada a le plaisir de vous inviter à participer à la Clinique de curation : les éléments essentiels pour le dépôt de données de recherche. Nous discuterons de la manière de collaborer avec les chercheurs sur les éléments essentiels d'un dépôt de données bien documenté, tels que les titres, les descriptions, les mots-clés, les fichiers README et les livres de codes.
+
+    Au programme :
+        - Expériences et discussions sur l'amélioration des métadonnées des ensembles de données.
+        - Partage d'outils adaptés pour rationaliser les descriptions des ensembles de données.
+        - Exemples d'éléments clés dans les titres, les descriptions et les fichiers README.
+        - Questions des membres de la communauté et échanges avec leurs pairs conservateurs.
+
+    Nous souhaitons que ces sessions soient captivantes, collaboratives et, surtout, utiles pour votre rôle professionnel. Que vous soyez simplement curieux ou        que vous travailliez activement sur un ensemble de données complexe, votre participation est la bienvenue.
+
+    Date : mercredi 1er octobre 2025
+    Heure : 10 h (heure du Pacifique) / 11 h (heure des Rocheuses) / 13 h (heure de l'Est) / 14 h (heure de l'Atlantique) via Zoom
+    Cliquez [ici](https://engagedri-ca.zoom.us/meeting/register/R8B8jQfAR8Wlv36Rtzr1DA#/registration) pour vous inscrire
+
 - [L'Université d'Athabasca](https://powered.athabascau.ca/product?catalog=Research-Data-Management) organise un cours d'introduction à la gestion des données de recherche. Le cours est GRATUIT, mais en raison des limitations de la plateforme/du site Web, il vous invitera à payer/acheter le cours, alors entrez le code promo ‘researchfree’ pour contourner le paiement.
 
 - [L’Gouvernement du Canada]( https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management) a mis à jour son site Web sur la gestion des données de recherche. Consultez-le pour prendre connaissance des dernières nouvelles sur la politique de gestion des données de recherche, les possibilités de financement et la FAQ.
