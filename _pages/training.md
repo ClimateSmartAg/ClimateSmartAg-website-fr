@@ -34,11 +34,11 @@ GitHub
 
 Objectifs d’apprentissage
 
-    1.	Les participants acquerront une compréhension de base de GitHub
-
-    2.	Les participants apprendront à naviguer sur GitHub pour obtenir du soutien
-
-    3.	Les participants se sentiront suffisamment à l’aise pour utiliser les outils GitHub dans des projets de groupe
+    1. Les participants acquerront une compréhension de base de GitHub
+    
+    2. Les participants apprendront à naviguer sur GitHub pour obtenir du soutien
+    
+    3. Les participants se sentiront suffisamment à l’aise pour utiliser les outils GitHub dans des projets de groupe
 
 Introduction
 
@@ -163,6 +163,8 @@ Améliorer vos propositions de subventions et vos plans de mobilisation des conn
 Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
+- [L'Alliance pour la recherche numérique du Canada (DRAC)](https://explora.alliancecan.ca/) a présenté son moteur de recherche Explora. Les utilisateurs peuvent rechercher dans Explora des ateliers, des webinaires, des bootcamps et d’autres événements de formation partout au Canada conçus pour aider les chercheurs à n’importe quel stade de leur carrière à développer des compétences en informatique de recherche avancée, en gestion des données de recherche et en logiciels de recherche.
+
 - L'équipe des services de curation au DFDR de l'Alliance de recherche numérique du Canada a le plaisir de vous inviter à participer à la Clinique de curation : les éléments essentiels pour le dépôt de données de recherche. Nous discuterons de la manière de collaborer avec les chercheurs sur les éléments essentiels d'un dépôt de données bien documenté, tels que les titres, les descriptions, les mots-clés, les fichiers README et les livres de codes.
 
     Au programme :
