@@ -35,9 +35,7 @@ GitHub
 Objectifs d’apprentissage
 
     1. Les participants acquerront une compréhension de base de GitHub
-    
     2. Les participants apprendront à naviguer sur GitHub pour obtenir du soutien
-    
     3. Les participants se sentiront suffisamment à l’aise pour utiliser les outils GitHub dans des projets de groupe
 
 Introduction
