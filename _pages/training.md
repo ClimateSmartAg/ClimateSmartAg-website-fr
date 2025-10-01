@@ -161,6 +161,11 @@ Améliorer vos propositions de subventions et vos plans de mobilisation des conn
 Cette séance sera animée par Emily Nanne, conseillère en engagement autochtone, et animée par AG-ACt.
 
 ## Organisations externes
+- Consultez le portail de formation Explora du DRAC pour voir les opportunités de formation à venir. Cliquez sur la page [Événements à venir](https://explora.alliancecan.ca/events) pour voir plus de détails.
+
+- Le concours pour l’allocation de ressources est désormais ouvert ! Postulez pour des ressources de calcul, de stockage et d’informatique dématérialisée.
+Annuel pour l’allocation de ressources est ouvert. Les membres du corps professoral des institutions canadiennes peuvent demander un accès prioritaire aux ressources de calcul, de stockage et d’infonuagique que ne le leur permet le Service d’accès rapide. Les propositions dans le cadre du concours doivent être soumises électroniquement depuis le site de la [CCDB](https://ccdb.alliancecan.ca/security/login) avant le 4 novembre 2025 (23 h 59 HNE). Consultez la [page Web du Concours pour l’allocation des ressources](https://docs.alliancecan.ca/wiki/Resource_Allocation_Competition/fr) pour des informations importantes, les détails de la compétition et l’inscription à la session d’information.
+
 - [L'Alliance pour la recherche numérique du Canada (DRAC)](https://explora.alliancecan.ca/) a présenté son moteur de recherche Explora. Les utilisateurs peuvent rechercher dans Explora des ateliers, des webinaires, des bootcamps et d’autres événements de formation partout au Canada conçus pour aider les chercheurs à n’importe quel stade de leur carrière à développer des compétences en informatique de recherche avancée, en gestion des données de recherche et en logiciels de recherche.
 
 - L'équipe des services de curation au DFDR de l'Alliance de recherche numérique du Canada a le plaisir de vous inviter à participer à la Clinique de curation : les éléments essentiels pour le dépôt de données de recherche. Nous discuterons de la manière de collaborer avec les chercheurs sur les éléments essentiels d'un dépôt de données bien documenté, tels que les titres, les descriptions, les mots-clés, les fichiers README et les livres de codes.
